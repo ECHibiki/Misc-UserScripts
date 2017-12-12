@@ -6,8 +6,8 @@
 // @description  try to take over the world!
 // @author       You
 // @match        *://kiwiirc.com/client/irc.sageru.org/*
-// @updateURL    https://github.com/ECHibiki/4chan-UserScripts/raw/master/Kiwiirc-Annoyance-Removal.user.js
-// @downloadURL  https://github.com/ECHibiki/4chan-UserScripts/raw/master/Kiwiirc-Annoyance-Removal.user.js
+// @updateURL    https://github.com/ECHibiki/Misc-UserScripts/raw/master/Kiwiirc-Annoyance-Removal.user.js
+// @downloadURL  https://github.com/ECHibiki/Misc-UserScripts/raw/master/Kiwiirc-Annoyance-Removal.user.js
 // ==/UserScript==
 
     console.log(document.body);
