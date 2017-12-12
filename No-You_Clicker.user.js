@@ -7,7 +7,7 @@
 // @match        *://no-you.com/jp/*
 // @match        http://no-you.com/jp/index.html
 // @updateURL    https://github.com/ECHibiki/Misc-UserScripts/raw/master/No-You_Clicker-UserScripts/raw/master/No-You_Clicker.user.js
-// @downloadURL  https://github.com/ECHibiki/Misc-UserScripts/raw/master/No-You_Clicker-UserScripts/raw/master/No-You_Clicker-UserScripts/raw/master/No-You_Clicker.user.js
+// @downloadURL  https://github.com/ECHibiki/Misc-UserScripts/raw/master/No-You_Clicker-UserScripts/raw/master/No-You_Clicker.user.js
 // ==/UserScript==
 
 (function() {
