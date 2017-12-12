@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Warosu Images
 // @namespace    http://tampermonkey.net/
-// @version      0.2.4
+// @version      0.2.5
 // @description  Add images to your posts
 // @author       ECHibiki-/qa/
 // @match http://warosu.org/*
@@ -14,6 +14,8 @@
 // @grant GM_xmlhttpRequest
 // @connect https://danbooru.donmai.us/
 // @connect http://danbooru.donmai.us/
+// @updateURL    https://github.com/ECHibiki/Misc-UserScripts/raw/master/Warosu-Images.user.js
+// @downloadURL  https://github.com/ECHibiki/Misc-UserScripts/raw/master/Warosu-Images.user.js
 // ==/UserScript==
 
 /**

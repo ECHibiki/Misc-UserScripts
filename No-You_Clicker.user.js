@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         No-You Clicker
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @match        *://no-you.com/jp/*
 // @match        http://no-you.com/jp/index.html
-// @grant        none
+// @updateURL    https://github.com/ECHibiki/4chan-UserScripts/raw/master/No-You_Clicker.user.js
+// @downloadURL  https://github.com/ECHibiki/4chan-UserScripts/raw/master/No-You_Clicker.user.js
 // ==/UserScript==
 
 (function() {

@@ -2,11 +2,12 @@
 // @name         Kiwiirc Annoyance Removal
 // @description remove user has joined prompts.
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @match        *://kiwiirc.com/client/irc.sageru.org/*
-// @grant        none
+// @updateURL    https://github.com/ECHibiki/4chan-UserScripts/raw/master/Kiwiirc-Annoyance-Removal.user.js
+// @downloadURL  https://github.com/ECHibiki/4chan-UserScripts/raw/master/Kiwiirc-Annoyance-Removal.user.js
 // ==/UserScript==
 
     console.log(document.body);
