@@ -2,7 +2,7 @@
 // @name         Kiwiirc Annoyance Removal
 // @description remove user has joined prompts.
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @match        *://kiwiirc.com/client/irc.sageru.org/*
