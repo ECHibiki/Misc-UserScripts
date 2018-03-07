@@ -6,6 +6,8 @@
 // @author       You
 // @match        http://www.saltybet.com/
 // @grant        none
+// @updateURL    https://github.com/ECHibiki/Misc-UserScripts/raw/master/SaltyBet-Manufactured_Constraint.user.js
+// @downloadURL  https://github.com/ECHibiki/Misc-UserScripts/raw/master/SaltyBet-Manufactured_Constraint.user.js
 // ==/UserScript==
 
 (function() {
